@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/08/19/hello-world/</url>
-    <content><![CDATA[<p>Welcome to Lin’s Blog! This is my very first post. You can contact me through many channels, such as GitHub, QQ or Email. If you get any problems when reading my article, please contact me via the methods above.<br>
-欢迎来到林的博客！这是我的第一篇文章。您可以通过多种渠道与我联系，例如GitHub，QQ或电子邮件。如果您在阅读我的文章时遇到任何问题，请通过上述方法与我联系。</p>
-<h2 id="Quick-Learn-快速了解我的博客">Quick Learn 快速了解我的博客</h2>
-<h3 id="Record-Learning记录学习">Record Learning记录学习</h3>
-<p>Some articles record my superficial knowledge of programming languages, laptops, etc., if you have better insights, please feel free to send me a text message.<br>
-有些文章记录了我对编程语言、笔记本电脑等的肤浅理解，如果您有更好的见解，请随时给我发短信。</p>
-<h3 id="Record-Your-ideas记录大家的想法">Record Your ideas记录大家的想法</h3>
-<p>If anyone has a unique idea, you can contact me through the contact information in About, and I am very happy that you can share your ideas！<br>
-如果任何人有什么独特的想法，都可以通过About里面的联系方式联系我，我十分开心各位能够分享自己的想法！</p>
-]]></content>
-  </entry>
-  <entry>
     <title>笔记本装机必备软件/Laptop essentials</title>
     <url>/2023/08/29/Laptop%20essentials/</url>
     <content><![CDATA[<h3 id="新机必备">新机必备</h3>
@@ -32,6 +18,29 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">无接推广</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>笔记本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/08/19/hello-world/</url>
+    <content><![CDATA[<p>Welcome to Lin’s Blog! This is my very first post. You can contact me through many channels, such as GitHub, QQ or Email. If you get any problems when reading my article, please contact me via the methods above.<br>
+欢迎来到林的博客！这是我的第一篇文章。您可以通过多种渠道与我联系，例如GitHub，QQ或电子邮件。如果您在阅读我的文章时遇到任何问题，请通过上述方法与我联系。</p>
+<h2 id="Quick-Learn-快速了解我的博客">Quick Learn 快速了解我的博客</h2>
+<h3 id="Record-Learning记录学习">Record Learning记录学习</h3>
+<p>Some articles record my superficial knowledge of programming languages, laptops, etc., if you have better insights, please feel free to send me a text message.<br>
+有些文章记录了我对编程语言、笔记本电脑等的肤浅理解，如果您有更好的见解，请随时给我发短信。</p>
+<h3 id="Record-Your-ideas记录大家的想法">Record Your ideas记录大家的想法</h3>
+<p>If anyone has a unique idea, you can contact me through the contact information in About, and I am very happy that you can share your ideas！<br>
+如果任何人有什么独特的想法，都可以通过About里面的联系方式联系我，我十分开心各位能够分享自己的想法！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Words</title>
+    <url>/2023/09/11/Words/</url>
+    <content><![CDATA[<p>人们常说，爱情使人丧失自我。但还有相反的情形：爱情使人发现自我。在爱人面前，谁不是突然惊喜地发现，他自己原来还有这么多平时疏忽的好东西？他渴望把自己最好的东西献给爱人，于是他寻找，他果然找到了。呈献的愿望导致了发现。没有呈献的力量，也许一辈子发现不了.————周国平《人与永恒》</p>
+]]></content>
+      <tags>
+        <tag>摘抄</tag>
       </tags>
   </entry>
 </search>
