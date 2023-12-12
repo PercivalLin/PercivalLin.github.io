@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>笔记本装机必备软件/Laptop essentials</title>
-    <url>/2023/08/29/Laptop%20essentials/</url>
-    <content><![CDATA[<h3 id="新机必备">新机必备</h3>
-<p>新机装机必备类型软件<br>
-1、everything(用来检索文件，比电脑自带的要快）<br>
-2、potplayer64bit（万能播放器）<br>
-3、IDM（下载超级无敌快的软件，但是不能下载磁力链接，如果需要下载磁力链接那就下载一个迅雷<br>
-4、百度网盘，腾讯微云等等网盘工具<br>
-5、音乐软件，如网易云音乐、qq音乐<br>
-6、wps或者office之类的办公软件，一般大品牌买了电脑会自带office正版<br>
-7、邮箱管理，上了大学要下载一个管理邮箱的客户端，可以用Microsoft自带的outlook也可以下载一个thunderbird<br>
-8、浏览器推荐Microsoft的edge或者谷歌的chrome或者Firefox<br>
-9、钉钉、腾讯会议、SKype之类的视频通讯要记得下载<br>
-10、微信、QQ必要的通讯工具</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">无接推广</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>笔记本</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/08/19/hello-world/</url>
     <content><![CDATA[<p>Welcome to Lin’s Blog! This is my very first post. You can contact me through many channels, such as GitHub, QQ or Email. If you get any problems when reading my article, please contact me via the methods above.<br>
@@ -35,12 +15,37 @@
 ]]></content>
   </entry>
   <entry>
+    <title>introduction</title>
+    <url>/2023/12/11/introduction/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Words</title>
     <url>/2023/09/11/Words/</url>
     <content><![CDATA[<p>人们常说，爱情使人丧失自我。但还有相反的情形：爱情使人发现自我。在爱人面前，谁不是突然惊喜地发现，他自己原来还有这么多平时疏忽的好东西？他渴望把自己最好的东西献给爱人，于是他寻找，他果然找到了。呈献的愿望导致了发现。没有呈献的力量，也许一辈子发现不了.————周国平《人与永恒》</p>
 ]]></content>
       <tags>
         <tag>摘抄</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>笔记本装机必备软件/Laptop essentials</title>
+    <url>/2023/08/29/Laptop%20essentials/</url>
+    <content><![CDATA[<h3 id="新机必备">新机必备</h3>
+<p>新机装机必备类型软件<br>
+1、everything(用来检索文件，比电脑自带的要快）<br>
+2、potplayer64bit（万能播放器）<br>
+3、IDM（下载超级无敌快的软件，但是不能下载磁力链接，如果需要下载磁力链接那就下载一个迅雷<br>
+4、百度网盘，腾讯微云等等网盘工具<br>
+5、音乐软件，如网易云音乐、qq音乐<br>
+6、wps或者office之类的办公软件，一般大品牌买了电脑会自带office正版<br>
+7、邮箱管理，上了大学要下载一个管理邮箱的客户端，可以用Microsoft自带的outlook也可以下载一个thunderbird<br>
+8、浏览器推荐Microsoft的edge或者谷歌的chrome或者Firefox<br>
+9、钉钉、腾讯会议、SKype之类的视频通讯要记得下载<br>
+10、微信、QQ必要的通讯工具</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">无接</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>笔记本</tag>
       </tags>
   </entry>
 </search>
